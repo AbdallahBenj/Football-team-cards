@@ -27,6 +27,6 @@ To try the sports team cards project:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Football-team-cards)
 
 ## Let’s keep coding and creating smart interfaces for real-world data! ⚽🏀🏈
